@@ -27,7 +27,7 @@ Building public-facing healthcare analytics projects demonstrating methodology f
 ### 1. NHS Healthcare Analytics Portfolio
 A collection of healthcare analytics projects demonstrating geospatial analysis, statistical testing, forecasting and responsible data governance using public, synthetic or illustrative data.
 
-➡️ Repository: `nhs-data-analytics-portfolio`
+➡️ Repository: [`nhs-data-analytics-portfolio`](https://github.com/Jonathan36NHS/nhs-data-analytics-portfolio/tree/main)
 
 ### 2. CAR-T Geographic Access Analysis
 Demonstrates how geospatial analysis can be used to explore travel burden and geographic access to specialist treatment centres.
