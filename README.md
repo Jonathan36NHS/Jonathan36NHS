@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jonathan 👋
 
-<!--
-**Jonathan36NHS/Jonathan36NHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Healthcare Data Analyst at NHS England with 6+ years experience in data governance, analytics, and visualization.
 
-Here are some ideas to get you started:
+## 🔬 Specialties
+- **Healthcare Analytics:** Cancer pathways, drug utilization, geographic access analysis
+- **Statistical Analysis:** Hypothesis testing, regression modeling, time series forecasting
+- **Data Visualization:** Power BI, Plotly, Folium geospatial mapping
+- **Tools:** Python (pandas, statsmodels, scikit-learn), SQL, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Current Focus
+Building public-facing healthcare analytics projects demonstrating methodology from NHS England work.
+
+## 📫 Connect
+(https://www.linkedin.com/in/jonathan-d-hill/)
+
+---
+🏥 Portfolio projects below showcase technical approaches used in healthcare data analysis
+- Geospatial healthcare analytics (CAR-T access inequality analysis)
+- Statistical hypothesis testing (chi-square, OLS regression on drug prescribing patterns)
+- Time series forecasting (ARIMA models for cancer drug demand)
+- Interactive dashboards (Power BI with 218K records)
+- NLP sentiment analysis (clinician feedback processing)
