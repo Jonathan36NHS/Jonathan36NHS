@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan 👋
 
-Healthcare Data Analyst at NHS England with 6+ years experience in data governance, analytics, and visualisation.
+Senior Healthcare Analyst at NHS England with 6+ years experience in data governance, analytics, and visualisation.
 
 ## 🔬 Specialties
 - **Healthcare Analytics:** Cancer pathways, drug utilisation, geographic access analysis
@@ -12,7 +12,7 @@ Healthcare Data Analyst at NHS England with 6+ years experience in data governan
 Building public-facing healthcare analytics projects demonstrating methodology from NHS England work.
 
 ## 📫 Connect
-(https://www.linkedin.com/in/jonathan-d-hill/)
+[LinkedIn](https://www.linkedin.com/in/jonathan-d-hill/)
 
 ---
 🏥 Portfolio projects below showcase technical approaches used in healthcare data analysis
