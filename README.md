@@ -3,7 +3,10 @@
 
 I'm a healthcare analytics professional at NHS England with 6+ years' experience in data governance, operational reporting, high-cost medicines analytics, cancer pathways, geospatial analysis and public-sector decision support.
 
-This GitHub portfolio demonstrates analytical methods I use in healthcare settings, including reproducible Python workflows, geospatial access analysis, statistical testing, time series forecasting and interactive reporting. All examples use public, synthetic or illustrative data only — no confidential NHS patient data is included.
+This GitHub portfolio demonstrates analytical methods I use in healthcare settings, including reproducible Python workflows, geospatial access analysis, statistical testing, time series forecasting and interactive reporting.
+
+All examples use public, synthetic or illustrative data only. No confidential NHS patient-level data is included
+
 
 
 ## Core strengths
