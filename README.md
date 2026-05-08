@@ -1,9 +1,9 @@
 # Hi, I'm Jonathan 👋
 
-Healthcare Data Analyst at NHS England with 6+ years experience in data governance, analytics, and visualization.
+Healthcare Data Analyst at NHS England with 6+ years experience in data governance, analytics, and visualisation.
 
 ## 🔬 Specialties
-- **Healthcare Analytics:** Cancer pathways, drug utilization, geographic access analysis
+- **Healthcare Analytics:** Cancer pathways, drug utilisation, geographic access analysis
 - **Statistical Analysis:** Hypothesis testing, regression modeling, time series forecasting
 - **Data Visualization:** Power BI, Plotly, Folium geospatial mapping
 - **Tools:** Python (pandas, statsmodels, scikit-learn), SQL, Power BI
